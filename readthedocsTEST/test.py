@@ -1,4 +1,4 @@
 def my_test_function(message: str) -> int:
-    "my docstring!"
+    """my docstring"""
     print(message)
     return 1
