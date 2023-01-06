@@ -5,3 +5,5 @@ API
    :toctree: generated
 
    lumache
+.. automodule:: readthedocsTEST.readthedocsTEST
+   :members:
