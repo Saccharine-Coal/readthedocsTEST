@@ -3,9 +3,8 @@ API
 
 .. autosummary::
    :toctree: generated
-
    lumache
 .. automodule:: readthedocsTEST.test
-   :members:
-..automodule:: lumache
+   :members: my_test_function
+.. automodule:: lumache
    :members:
