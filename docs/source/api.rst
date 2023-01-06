@@ -1,11 +1,11 @@
 API
 ===
 
-.. automodule:: readthedocsTEST.docs.source.test
+.. automodule:: docs.source.test
    :members:
 .. autosummary::
    :toctree: generated
 
    lumache
-.. automodule:: readthedocsTEST.readthedocsTEST.test
+.. automodule:: readthedocsTEST.test
    :members:
