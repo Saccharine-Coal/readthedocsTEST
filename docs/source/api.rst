@@ -1,8 +1,6 @@
 API
 ===
 
-.. automodule:: docs.source.test
-   :members:
 .. autosummary::
    :toctree: generated
 
