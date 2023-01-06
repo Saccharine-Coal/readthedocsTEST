@@ -7,3 +7,5 @@ API
    lumache
 .. automodule:: readthedocsTEST.test
    :members:
+..automodule:: lumache
+   :members:
