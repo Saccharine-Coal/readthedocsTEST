@@ -1,6 +1,8 @@
 API
 ===
 
+.. automodule:: readthedocsTEST.docs.source.test
+   :members:
 .. autosummary::
    :toctree: generated
 
